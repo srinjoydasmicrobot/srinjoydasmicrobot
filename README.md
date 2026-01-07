@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🤖 SrinjoyDas MicroBot
 
-<!--
-**srinjoydasmicrobot/srinjoydasmicrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SrinjoyDas MicroBot** is a QR-code–based AI educational web application designed to help students learn **coding and robotics** in a simple, interactive, and modern way.
 
-Here are some ideas to get you started:
+## 🚀 Features
+- AI-based help for **coding concepts**
+- Robotics and Arduino project guidance
+- Presentation-ready explanations
+- Works instantly by scanning a **QR code**
+- No app installation required
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Purpose
+This project demonstrates the use of **Artificial Intelligence in education**, especially for school students, exhibitions, and academic presentations.
+
+## 📱 How to Use
+1. Scan the QR code provided
+2. Open the web app in a browser
+3. Ask questions related to coding or robotics
+4. Get intelligent responses instantly
+
+## 🛠 Technology Used
+- HTML
+- CSS
+- JavaScript
+- AI-based logic (extendable)
+
+## 👨‍💻 Developer
+**Srinjoy Das**  
+Student | Coding & Robotics Enthusiast
+
+## ⚠️ Disclaimer
+This project is created for **educational purposes only**.
